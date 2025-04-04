@@ -4,7 +4,7 @@ Submitted by: **Andry Rakotonjanabelo**
 
 **Tumblr Photo Feed** is an app that displays photo posts from a Tumblr blog using the Tumblr API. Users can view photo summaries and images in a scrollable table view. The app also supports refreshing the feed and alternating between two different blogs.
 
-Time spent: **6** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
