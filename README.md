@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Add your walkthrough link here once it's ready:
 
-📹 [Loom Video Walkthrough](https://www.loom.com)
+![Tumblr App Video Walkthrough](Andry-tumblr-demo.gif)
 
 ## Notes
 
